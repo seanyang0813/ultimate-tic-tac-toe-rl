@@ -1,0 +1,976 @@
+Epoch #278: 10080it [00:05, 1867.96it/s, env_step=2802240, len=54, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                                 
+Epoch #278: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #279: 10080it [00:05, 1843.96it/s, env_step=2812320, len=57, n/ep=2, n/st=90, player_2/loss=0.033, rew=-1.00]                                                
+Epoch #279: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #280: 10080it [00:05, 1831.91it/s, env_step=2822400, len=60, n/ep=3, n/st=90, player_2/loss=0.035, rew=0.67]                                                 
+Epoch #280: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #281: 10080it [00:05, 1830.76it/s, env_step=2832480, len=60, n/ep=3, n/st=90, player_2/loss=0.030, rew=-1.00]                                                
+Epoch #281: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #282: 10080it [00:05, 1861.14it/s, env_step=2842560, len=58, n/ep=0, n/st=90, player_2/loss=0.035, rew=1.00]                                                 
+Epoch #282: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #283: 10080it [00:05, 1874.10it/s, env_step=2852640, len=57, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.67]                                                 
+Epoch #283: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #284: 10080it [00:05, 1854.11it/s, env_step=2862720, len=57, n/ep=2, n/st=90, player_2/loss=0.025, rew=0.50]                                                 
+Epoch #284: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #285: 10080it [00:05, 1843.56it/s, env_step=2872800, len=56, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                                 
+Epoch #285: test_reward: 0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #286: 10080it [00:05, 1794.90it/s, env_step=2882880, len=57, n/ep=3, n/st=90, player_2/loss=0.023, rew=0.00]                                                 
+Epoch #286: test_reward: 0.500000 ± 0.670820, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #287: 10080it [00:05, 1877.68it/s, env_step=2892960, len=65, n/ep=1, n/st=90, player_2/loss=0.027, rew=-1.00]                                                
+Epoch #287: test_reward: 0.000000 ± 0.774597, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #288: 10080it [00:05, 1867.51it/s, env_step=2903040, len=56, n/ep=2, n/st=90, player_2/loss=0.029, rew=1.00]                                                 
+Epoch #288: test_reward: -0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #289: 10080it [00:05, 1864.75it/s, env_step=2913120, len=59, n/ep=3, n/st=90, player_2/loss=0.027, rew=-0.67]                                                
+Epoch #289: test_reward: -0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #290: 10080it [00:05, 1884.78it/s, env_step=2923200, len=64, n/ep=1, n/st=90, player_2/loss=0.027, rew=1.00]                                                 
+Epoch #290: test_reward: -0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #291: 10080it [00:05, 1860.12it/s, env_step=2933280, len=56, n/ep=1, n/st=90, player_2/loss=0.035, rew=0.00]                                                 
+Epoch #291: test_reward: -0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #292: 10080it [00:05, 1814.03it/s, env_step=2943360, len=56, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                                 
+Epoch #292: test_reward: 0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #293: 10080it [00:05, 1872.24it/s, env_step=2953440, len=55, n/ep=4, n/st=90, player_2/loss=0.028, rew=0.50]                                                 
+Epoch #293: test_reward: 0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #294: 10080it [00:05, 1878.47it/s, env_step=2963520, len=47, n/ep=5, n/st=90, player_2/loss=0.034, rew=-0.80]                                                
+Epoch #294: test_reward: -0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #295: 10080it [00:05, 1894.25it/s, env_step=2973600, len=63, n/ep=1, n/st=90, player_2/loss=0.028, rew=-1.00]                                                
+Epoch #295: test_reward: 0.700000 ± 0.640312, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #296: 10080it [00:05, 1886.97it/s, env_step=2983680, len=63, n/ep=1, n/st=90, player_2/loss=0.027, rew=-1.00]                                                
+Epoch #296: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #297: 10080it [00:05, 1822.33it/s, env_step=2993760, len=63, n/ep=0, n/st=90, player_2/loss=0.030, rew=-1.00]                                                
+Epoch #297: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #298: 10080it [00:05, 1906.64it/s, env_step=3003840, len=50, n/ep=1, n/st=90, player_2/loss=0.029, rew=1.00]                                                 
+Epoch #298: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #299: 10080it [00:05, 1886.72it/s, env_step=3013920, len=67, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.50]                                                 
+Epoch #299: test_reward: -0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #300: 10080it [00:05, 1892.28it/s, env_step=3024000, len=58, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                                 
+Epoch #300: test_reward: -0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #301: 10080it [00:05, 1743.52it/s, env_step=3034080, len=54, n/ep=1, n/st=90, player_2/loss=0.031, rew=0.00]                                                 
+Epoch #301: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #302: 10080it [00:05, 1862.30it/s, env_step=3044160, len=56, n/ep=1, n/st=90, player_2/loss=0.035, rew=1.00]                                                 
+Epoch #302: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #303: 10080it [00:05, 1771.16it/s, env_step=3054240, len=58, n/ep=0, n/st=90, player_2/loss=0.033, rew=0.00]                                                 
+Epoch #303: test_reward: -0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #304:  19%|######2                          | 1890/10000 [00:01<00:04, 1779.77it/s, env_step=3056130, len=66, n/ep=1, n/st=90, player_2/loss=0.Epoch #304:  20%|######5                          | 1980/10000 [00:01<00:04, 1783.73it/s, env_step=3056130, len=66, n/ep=1, n/st=90, player_2/loss=0.Epoch #304:  20%|######5                          | 1980/10000 [00:01<00:04, 1783.73it/s, env_step=3056220, len=66, n/ep=0, n/st=90, player_2/loss=0.Epoch #304:  21%|######6                         | 2070/10000 [00:01<00:04, 1783.73it/s, env_step=3056310, len=55, n/ep=3, n/st=90, player_2/loss=0.0Epoch #304:  22%|######9                         | 2160/10000 [00:01<00:04, 1764.71it/s, env_step=3056310, len=55, n/ep=3, n/st=90, player_2/loss=0.0Epoch #304:  22%|####1              | 2160/10000 [00:01<00:04, 1764.71it/s, env_step=3056400, len=64, n/ep=2, n/st=90, player_2/loss=0.036, rew=0.50]Epoch #304: 10080it [00:05, 1901.26it/s, env_step=3064320, len=50, n/ep=1, n/st=90, player_2/loss=0.034, rew=1.00]                                   
+Epoch #304: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #305: 10080it [00:05, 1853.94it/s, env_step=3074400, len=62, n/ep=2, n/st=90, player_2/loss=0.034, rew=0.00]                                   
+Epoch #305: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #306: 10080it [00:05, 1849.53it/s, env_step=3084480, len=58, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.50]                                   
+Epoch #306: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #307: 10080it [00:05, 1884.74it/s, env_step=3094560, len=54, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                   
+Epoch #307: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #308: 10080it [00:05, 1837.94it/s, env_step=3104640, len=61, n/ep=1, n/st=90, player_2/loss=0.028, rew=-1.00]                                  
+Epoch #308: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #309: 10080it [00:05, 1743.65it/s, env_step=3114720, len=59, n/ep=1, n/st=90, player_2/loss=0.032, rew=-1.00]                                  
+Epoch #309: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #310: 10080it [00:05, 1831.40it/s, env_step=3124800, len=56, n/ep=2, n/st=90, player_2/loss=0.031, rew=0.50]                                   
+Epoch #310: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #311: 10080it [00:05, 1910.38it/s, env_step=3134880, len=63, n/ep=1, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #311: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #312: 10080it [00:05, 1794.07it/s, env_step=3144960, len=51, n/ep=1, n/st=90, player_2/loss=0.030, rew=-1.00]                                  
+Epoch #312: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #313: 10080it [00:05, 1836.49it/s, env_step=3155040, len=53, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.00]                                   
+Epoch #313: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #314: 10080it [00:05, 1793.26it/s, env_step=3165120, len=50, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #314: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #315: 10080it [00:05, 1835.77it/s, env_step=3175200, len=57, n/ep=0, n/st=90, player_2/loss=0.032, rew=0.00]                                   
+Epoch #315: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #316: 10080it [00:05, 1786.53it/s, env_step=3185280, len=56, n/ep=2, n/st=90, player_2/loss=0.038, rew=-1.00]                                  
+Epoch #316: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #317: 10080it [00:05, 1757.28it/s, env_step=3195360, len=69, n/ep=1, n/st=90, player_2/loss=0.032, rew=-1.00]                                  
+Epoch #317: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #318: 10080it [00:05, 1703.75it/s, env_step=3205440, len=55, n/ep=0, n/st=90, player_2/loss=0.032, rew=0.67]                                   
+Epoch #318: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #319: 10080it [00:05, 1855.79it/s, env_step=3215520, len=47, n/ep=1, n/st=90, player_2/loss=0.035, rew=-1.00]                                  
+Epoch #319: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #320: 10080it [00:05, 1928.49it/s, env_step=3225600, len=61, n/ep=2, n/st=90, player_2/loss=0.031, rew=-0.50]                                  
+Epoch #320: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #321: 10080it [00:05, 1915.88it/s, env_step=3235680, len=55, n/ep=0, n/st=90, player_2/loss=0.028, rew=-0.50]                                  
+Epoch #321: test_reward: -0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #322: 10080it [00:05, 1934.39it/s, env_step=3245760, len=58, n/ep=2, n/st=90, player_2/loss=0.045, rew=0.00]                                   
+Epoch #322: test_reward: -0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #323: 10080it [00:05, 1842.64it/s, env_step=3255840, len=61, n/ep=0, n/st=90, player_2/loss=0.028, rew=-0.50]                                  
+Epoch #323: test_reward: 0.500000 ± 0.670820, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #324: 10080it [00:05, 1937.59it/s, env_step=3265920, len=62, n/ep=2, n/st=90, player_2/loss=0.030, rew=0.50]                                   
+Epoch #324: test_reward: -0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #325: 10080it [00:05, 1852.32it/s, env_step=3276000, len=53, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.00]                                   
+Epoch #325: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #326: 10080it [00:05, 1820.24it/s, env_step=3286080, len=57, n/ep=0, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #326: test_reward: -0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #327: 10080it [00:05, 1926.16it/s, env_step=3296160, len=64, n/ep=3, n/st=90, player_2/loss=0.031, rew=1.00]                                   
+Epoch #327: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #328: 10080it [00:05, 1837.01it/s, env_step=3306240, len=54, n/ep=1, n/st=90, player_2/loss=0.029, rew=1.00]                                   
+Epoch #328: test_reward: -0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #329: 10080it [00:05, 1874.56it/s, env_step=3316320, len=64, n/ep=0, n/st=90, player_2/loss=0.034, rew=0.00]                                   
+Epoch #329: test_reward: 0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #330: 10080it [00:05, 1956.92it/s, env_step=3326400, len=57, n/ep=0, n/st=90, player_2/loss=0.037, rew=0.00]                                   
+Epoch #330: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #331: 10080it [00:05, 1910.19it/s, env_step=3336480, len=60, n/ep=0, n/st=90, player_2/loss=0.028, rew=-0.50]                                  
+Epoch #331: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #332: 10080it [00:05, 1862.69it/s, env_step=3346560, len=54, n/ep=0, n/st=90, player_2/loss=0.030, rew=-0.75]                                  
+Epoch #332: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #333: 10080it [00:05, 1836.69it/s, env_step=3356640, len=55, n/ep=2, n/st=90, player_2/loss=0.027, rew=0.00]                                   
+Epoch #333: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #334: 10080it [00:05, 1822.32it/s, env_step=3366720, len=56, n/ep=3, n/st=90, player_2/loss=0.029, rew=-0.33]                                  
+Epoch #334: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #335: 10080it [00:05, 1837.37it/s, env_step=3376800, len=57, n/ep=1, n/st=90, player_2/loss=0.027, rew=-1.00]                                  
+Epoch #335: test_reward: -0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #336: 10080it [00:05, 1834.97it/s, env_step=3386880, len=65, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                  
+Epoch #336: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #337: 10080it [00:05, 1811.32it/s, env_step=3396960, len=53, n/ep=1, n/st=90, player_2/loss=0.027, rew=-1.00]                                  
+Epoch #337: test_reward: -0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #338: 10080it [00:05, 1775.37it/s, env_step=3407040, len=62, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.50]                                   
+Epoch #338: test_reward: 0.400000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #339: 10080it [00:05, 1862.04it/s, env_step=3417120, len=58, n/ep=1, n/st=90, player_2/loss=0.035, rew=1.00]                                   
+Epoch #339: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #340: 10080it [00:05, 1965.45it/s, env_step=3427200, len=60, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                   
+Epoch #340: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #341: 10080it [00:05, 1852.52it/s, env_step=3437280, len=62, n/ep=0, n/st=90, player_2/loss=0.029, rew=0.00]                                   
+Epoch #341: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #342: 10080it [00:05, 1754.53it/s, env_step=3447360, len=50, n/ep=1, n/st=90, player_2/loss=0.028, rew=1.00]                                   
+Epoch #342: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #343: 10080it [00:05, 1945.79it/s, env_step=3457440, len=68, n/ep=0, n/st=90, player_2/loss=0.033, rew=-0.50]                                  
+Epoch #343: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #344: 10080it [00:05, 1925.99it/s, env_step=3467520, len=62, n/ep=1, n/st=90, player_2/loss=0.029, rew=1.00]                                   
+Epoch #344: test_reward: 0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #345: 10080it [00:05, 1878.88it/s, env_step=3477600, len=63, n/ep=1, n/st=90, player_2/loss=0.032, rew=0.00]                                   
+Epoch #345: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #346: 10080it [00:05, 1835.36it/s, env_step=3487680, len=53, n/ep=2, n/st=90, player_2/loss=0.028, rew=-1.00]                                  
+Epoch #346: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #347: 10080it [00:05, 1864.25it/s, env_step=3497760, len=59, n/ep=1, n/st=90, player_2/loss=0.033, rew=-1.00]                                  
+Epoch #347: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #348: 10080it [00:05, 1850.83it/s, env_step=3507840, len=55, n/ep=3, n/st=90, player_2/loss=0.031, rew=0.33]                                   
+Epoch #348: test_reward: 0.000000 ± 0.774597, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #349: 10080it [00:05, 1860.87it/s, env_step=3517920, len=56, n/ep=2, n/st=90, player_2/loss=0.038, rew=0.00]                                   
+Epoch #349: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #350: 10080it [00:05, 1887.04it/s, env_step=3528000, len=54, n/ep=2, n/st=90, player_2/loss=0.033, rew=-0.50]                                  
+Epoch #350: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #351: 10080it [00:05, 1917.07it/s, env_step=3538080, len=62, n/ep=3, n/st=90, player_2/loss=0.033, rew=0.00]                                   
+Epoch #351: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #352: 10080it [00:05, 1858.24it/s, env_step=3548160, len=55, n/ep=0, n/st=90, player_2/loss=0.024, rew=-0.67]                                  
+Epoch #352: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #353: 10080it [00:05, 1861.18it/s, env_step=3558240, len=58, n/ep=0, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #353: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #354: 10080it [00:05, 1856.86it/s, env_step=3568320, len=66, n/ep=0, n/st=90, player_2/loss=0.030, rew=0.00]                                   
+Epoch #354: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #355: 10080it [00:05, 1882.33it/s, env_step=3578400, len=54, n/ep=1, n/st=90, player_2/loss=0.028, rew=1.00]                                   
+Epoch #355: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #356: 10080it [00:05, 1923.17it/s, env_step=3588480, len=63, n/ep=4, n/st=90, player_2/loss=0.028, rew=0.25]                                   
+Epoch #356: test_reward: 0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #357: 10080it [00:05, 1917.08it/s, env_step=3598560, len=57, n/ep=4, n/st=90, player_2/loss=0.032, rew=0.50]                                   
+Epoch #357: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #358:  46%|########7          | 4590/10000 [00:02<00:02, 1827.93it/s, env_step=3603150, len=59, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.50]Epoch #358: 10080it [00:05, 1845.89it/s, env_step=3608640, len=61, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                  
+Epoch #358: test_reward: 0.700000 ± 0.640312, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #359: 10080it [00:05, 1741.99it/s, env_step=3618720, len=61, n/ep=1, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #359: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #360: 10080it [00:05, 1900.47it/s, env_step=3628800, len=56, n/ep=2, n/st=90, player_2/loss=0.024, rew=1.00]                                   
+Epoch #360: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #361: 10080it [00:05, 1923.79it/s, env_step=3638880, len=48, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #361: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #362: 10080it [00:05, 1926.03it/s, env_step=3648960, len=58, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.00]                                   
+Epoch #362: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #363: 10080it [00:05, 1932.99it/s, env_step=3659040, len=59, n/ep=0, n/st=90, player_2/loss=0.024, rew=0.00]                                   
+Epoch #363: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #364: 10080it [00:05, 1945.60it/s, env_step=3669120, len=64, n/ep=1, n/st=90, player_2/loss=0.027, rew=0.00]                                   
+Epoch #364: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #365: 10080it [00:05, 1916.25it/s, env_step=3679200, len=67, n/ep=0, n/st=90, player_2/loss=0.035, rew=0.50]                                   
+Epoch #365: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #366: 10080it [00:05, 1899.56it/s, env_step=3689280, len=56, n/ep=3, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #366: test_reward: -0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #367: 10080it [00:05, 1892.63it/s, env_step=3699360, len=59, n/ep=1, n/st=90, player_2/loss=0.038, rew=-1.00]                                  
+Epoch #367: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #368: 10080it [00:05, 1852.63it/s, env_step=3709440, len=44, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                   
+Epoch #368: test_reward: 0.000000 ± 1.000000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #369: 10080it [00:05, 1914.53it/s, env_step=3719520, len=47, n/ep=1, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #369: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #370: 10080it [00:05, 1819.08it/s, env_step=3729600, len=55, n/ep=0, n/st=90, player_2/loss=0.035, rew=-0.17]                                  
+Epoch #370: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #371: 10080it [00:05, 1879.62it/s, env_step=3739680, len=58, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                   
+Epoch #371: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #372: 10080it [00:05, 1896.28it/s, env_step=3749760, len=54, n/ep=1, n/st=90, player_2/loss=0.036, rew=1.00]                                   
+Epoch #372: test_reward: -0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #373: 10080it [00:05, 1868.32it/s, env_step=3759840, len=53, n/ep=1, n/st=90, player_2/loss=0.034, rew=-1.00]                                  
+Epoch #373: test_reward: -0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #374: 10080it [00:05, 1878.96it/s, env_step=3769920, len=59, n/ep=0, n/st=90, player_2/loss=0.031, rew=0.50]                                   
+Epoch #374: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #375: 10080it [00:05, 1855.57it/s, env_step=3780000, len=59, n/ep=3, n/st=90, player_2/loss=0.028, rew=-1.00]                                  
+Epoch #375: test_reward: 0.500000 ± 0.670820, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #376: 10080it [00:05, 1914.85it/s, env_step=3790080, len=55, n/ep=0, n/st=90, player_2/loss=0.028, rew=0.00]                                   
+Epoch #376: test_reward: -0.400000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #377: 10080it [00:05, 1903.70it/s, env_step=3800160, len=58, n/ep=1, n/st=90, player_2/loss=0.033, rew=0.00]                                   
+Epoch #377: test_reward: -0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #378: 10080it [00:05, 1910.66it/s, env_step=3810240, len=56, n/ep=2, n/st=90, player_2/loss=0.033, rew=0.00]                                   
+Epoch #378: test_reward: 0.600000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #379: 10080it [00:05, 1941.15it/s, env_step=3820320, len=56, n/ep=2, n/st=90, player_2/loss=0.025, rew=0.00]                                   
+Epoch #379: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #380: 10080it [00:05, 1927.40it/s, env_step=3830400, len=57, n/ep=3, n/st=90, player_2/loss=0.028, rew=0.33]                                   
+Epoch #380: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #381: 10080it [00:05, 1855.91it/s, env_step=3840480, len=58, n/ep=0, n/st=90, player_2/loss=0.027, rew=-1.00]                                  
+Epoch #381: test_reward: 0.600000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #382: 10080it [00:05, 1841.68it/s, env_step=3850560, len=58, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #382: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #383: 10080it [00:05, 1862.08it/s, env_step=3860640, len=48, n/ep=0, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #383: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #384: 10080it [00:05, 1898.96it/s, env_step=3870720, len=55, n/ep=1, n/st=90, player_2/loss=0.026, rew=-1.00]                                  
+Epoch #384: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #385: 10080it [00:05, 1910.56it/s, env_step=3880800, len=50, n/ep=3, n/st=90, player_2/loss=0.026, rew=-0.33]                                  
+Epoch #385: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #386: 10080it [00:05, 1863.73it/s, env_step=3890880, len=52, n/ep=2, n/st=90, player_2/loss=0.031, rew=0.00]                                   
+Epoch #386: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #387: 10080it [00:05, 1873.52it/s, env_step=3900960, len=54, n/ep=0, n/st=90, player_2/loss=0.025, rew=-0.33]                                  
+Epoch #387: test_reward: 0.600000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #388: 10080it [00:05, 1894.26it/s, env_step=3911040, len=45, n/ep=1, n/st=90, player_2/loss=0.032, rew=-1.00]                                  
+Epoch #388: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #389: 10080it [00:05, 1851.12it/s, env_step=3921120, len=60, n/ep=5, n/st=90, player_2/loss=0.031, rew=-0.60]                                  
+Epoch #389: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #390: 10080it [00:06, 1634.20it/s, env_step=3931200, len=59, n/ep=4, n/st=90, player_2/loss=0.027, rew=0.50]                                   
+Epoch #390: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #391: 10080it [00:06, 1551.72it/s, env_step=3941280, len=55, n/ep=1, n/st=90, player_2/loss=0.025, rew=-1.00]                                  
+Epoch #391: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #392: 10080it [00:05, 1816.62it/s, env_step=3951360, len=66, n/ep=0, n/st=90, player_2/loss=0.034, rew=0.00]                                   
+Epoch #392: test_reward: 0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #393: 10080it [00:05, 1841.50it/s, env_step=3961440, len=50, n/ep=0, n/st=90, player_2/loss=0.033, rew=0.00]                                   
+Epoch #393: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #394: 10080it [00:05, 1858.66it/s, env_step=3971520, len=57, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.00]                                   
+Epoch #394: test_reward: -0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #395: 10080it [00:05, 1805.65it/s, env_step=3981600, len=57, n/ep=2, n/st=90, player_2/loss=0.033, rew=1.00]                                   
+Epoch #395: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #396: 10080it [00:05, 1803.28it/s, env_step=3991680, len=54, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                   
+Epoch #396: test_reward: 0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #397: 10080it [00:05, 1874.81it/s, env_step=4001760, len=56, n/ep=2, n/st=90, player_2/loss=0.029, rew=-1.00]                                  
+Epoch #397: test_reward: 0.200000 ± 0.748331, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #398: 10080it [00:05, 1847.05it/s, env_step=4011840, len=56, n/ep=2, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #398: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #399: 10080it [00:05, 1865.52it/s, env_step=4021920, len=59, n/ep=0, n/st=90, player_2/loss=0.030, rew=0.00]                                   
+Epoch #399: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #400: 10080it [00:05, 1854.50it/s, env_step=4032000, len=66, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                   
+Epoch #400: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #401: 10080it [00:05, 1856.33it/s, env_step=4042080, len=61, n/ep=1, n/st=90, player_2/loss=0.028, rew=-1.00]                                  
+Epoch #401: test_reward: 0.000000 ± 0.774597, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #402: 10080it [00:05, 1916.35it/s, env_step=4052160, len=58, n/ep=1, n/st=90, player_2/loss=0.023, rew=1.00]                                   
+Epoch #402: test_reward: 0.600000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #403: 10080it [00:05, 1875.81it/s, env_step=4062240, len=64, n/ep=1, n/st=90, player_2/loss=0.030, rew=0.00]                                   
+Epoch #403: test_reward: -0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #404: 10080it [00:05, 1742.95it/s, env_step=4072320, len=66, n/ep=1, n/st=90, player_2/loss=0.035, rew=1.00]                                   
+Epoch #404: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #405: 10080it [00:05, 1842.42it/s, env_step=4082400, len=61, n/ep=2, n/st=90, player_2/loss=0.034, rew=-1.00]                                  
+Epoch #405: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #406: 10080it [00:05, 1873.01it/s, env_step=4092480, len=54, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                   
+Epoch #406: test_reward: 0.000000 ± 1.000000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #407: 10080it [00:05, 1870.69it/s, env_step=4102560, len=64, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.50]                                   
+Epoch #407: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #408: 10080it [00:05, 1863.36it/s, env_step=4112640, len=52, n/ep=1, n/st=90, player_2/loss=0.024, rew=1.00]                                   
+Epoch #408: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #409: 10080it [00:05, 1870.06it/s, env_step=4122720, len=54, n/ep=3, n/st=90, player_2/loss=0.030, rew=1.00]                                   
+Epoch #409: test_reward: 0.000000 ± 0.894427, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #410: 10080it [00:05, 1833.14it/s, env_step=4132800, len=64, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #410: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #411: 10080it [00:05, 1828.92it/s, env_step=4142880, len=55, n/ep=4, n/st=90, player_2/loss=0.031, rew=-0.25]                                  
+Epoch #411: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #412: 10080it [00:05, 1843.38it/s, env_step=4152960, len=57, n/ep=2, n/st=90, player_2/loss=0.030, rew=0.00]                                   
+Epoch #412: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #413: 10080it [00:05, 1824.76it/s, env_step=4163040, len=51, n/ep=2, n/st=90, player_2/loss=0.026, rew=1.00]                                   
+Epoch #413: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #414: 10080it [00:05, 1868.80it/s, env_step=4173120, len=50, n/ep=3, n/st=90, player_2/loss=0.034, rew=-0.33]                                  
+Epoch #414: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #415: 10080it [00:05, 1852.67it/s, env_step=4183200, len=65, n/ep=1, n/st=90, player_2/loss=0.025, rew=-1.00]                                  
+Epoch #415: test_reward: -0.200000 ± 0.979796, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #416: 10080it [00:05, 1882.95it/s, env_step=4193280, len=56, n/ep=0, n/st=90, player_2/loss=0.030, rew=1.00]                                   
+Epoch #416: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #417: 10080it [00:05, 1851.87it/s, env_step=4203360, len=53, n/ep=0, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #417: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #418: 10080it [00:05, 1844.36it/s, env_step=4213440, len=56, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.67]                                   
+Epoch #418: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #419: 10080it [00:05, 1850.22it/s, env_step=4223520, len=65, n/ep=1, n/st=90, player_2/loss=0.032, rew=0.00]                                   
+Epoch #419: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #420: 10080it [00:05, 1846.94it/s, env_step=4233600, len=61, n/ep=1, n/st=90, player_2/loss=0.027, rew=0.00]                                   
+Epoch #420: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #421: 10080it [00:05, 1829.89it/s, env_step=4243680, len=58, n/ep=3, n/st=90, player_2/loss=0.037, rew=0.67]                                   
+Epoch #421: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #422: 10080it [00:05, 1854.58it/s, env_step=4253760, len=68, n/ep=2, n/st=90, player_2/loss=0.031, rew=0.50]                                   
+Epoch #422: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #423: 10080it [00:05, 1809.78it/s, env_step=4263840, len=55, n/ep=3, n/st=90, player_2/loss=0.033, rew=0.67]                                   
+Epoch #423: test_reward: -0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #424: 10080it [00:05, 1794.86it/s, env_step=4273920, len=61, n/ep=1, n/st=90, player_2/loss=0.034, rew=-1.00]                                  
+Epoch #424: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #425: 10080it [00:05, 1810.57it/s, env_step=4284000, len=49, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.00]                                   
+Epoch #425: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #426: 10080it [00:05, 1977.47it/s, env_step=4294080, len=60, n/ep=4, n/st=90, player_2/loss=0.032, rew=-0.25]                                  
+Epoch #426: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #427: 10080it [00:05, 1986.85it/s, env_step=4304160, len=65, n/ep=1, n/st=90, player_2/loss=0.026, rew=-1.00]                                  
+Epoch #427: test_reward: -0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #428: 10080it [00:05, 1987.42it/s, env_step=4314240, len=54, n/ep=2, n/st=90, player_2/loss=0.031, rew=0.00]                                   
+Epoch #428: test_reward: -0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #429: 10080it [00:05, 1981.53it/s, env_step=4324320, len=56, n/ep=3, n/st=90, player_2/loss=0.029, rew=0.33]                                   
+Epoch #429: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #430: 10080it [00:05, 2000.85it/s, env_step=4334400, len=55, n/ep=0, n/st=90, player_2/loss=0.034, rew=0.50]                                   
+Epoch #430: test_reward: 0.000000 ± 1.000000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #431: 10080it [00:05, 1999.71it/s, env_step=4344480, len=52, n/ep=0, n/st=90, player_2/loss=0.037, rew=1.00]                                   
+Epoch #431: test_reward: 0.400000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #432: 10080it [00:05, 2002.22it/s, env_step=4354560, len=55, n/ep=0, n/st=90, player_2/loss=0.030, rew=1.00]                                   
+Epoch #432: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #433: 10080it [00:05, 2005.22it/s, env_step=4364640, len=60, n/ep=2, n/st=90, player_2/loss=0.038, rew=0.00]                                   
+Epoch #433: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #434: 10080it [00:05, 1992.53it/s, env_step=4374720, len=60, n/ep=0, n/st=90, player_2/loss=0.039, rew=-1.00]                                  
+Epoch #434: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #435: 10080it [00:05, 1995.33it/s, env_step=4384800, len=53, n/ep=0, n/st=90, player_2/loss=0.035, rew=-1.00]                                  
+Epoch #435: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #436: 10080it [00:05, 1952.91it/s, env_step=4394880, len=59, n/ep=3, n/st=90, player_2/loss=0.030, rew=-0.67]                                  
+Epoch #436: test_reward: 0.000000 ± 1.000000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #437: 10080it [00:05, 1895.96it/s, env_step=4404960, len=53, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.00]                                   
+Epoch #437: test_reward: 0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #438: 10080it [00:05, 1873.82it/s, env_step=4415040, len=66, n/ep=1, n/st=90, player_2/loss=0.033, rew=0.00]                                   
+Epoch #438: test_reward: -0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #439: 10080it [00:06, 1658.94it/s, env_step=4425120, len=62, n/ep=3, n/st=90, player_2/loss=0.030, rew=1.00]                                   
+Epoch #439: test_reward: -0.600000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #440: 10080it [00:06, 1658.05it/s, env_step=4435200, len=56, n/ep=0, n/st=90, player_2/loss=0.035, rew=-1.00]                                  
+Epoch #440: test_reward: 0.500000 ± 0.806226, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #441: 10080it [00:06, 1608.03it/s, env_step=4445280, len=58, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                   
+Epoch #441: test_reward: 0.200000 ± 0.871780, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #442: 10080it [00:05, 1762.75it/s, env_step=4455360, len=72, n/ep=1, n/st=90, player_2/loss=0.031, rew=0.00]                                   
+Epoch #442: test_reward: 0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #443: 10080it [00:05, 1687.11it/s, env_step=4465440, len=54, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.50]                                   
+Epoch #443: test_reward: 0.300000 ± 0.640312, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #444: 10080it [00:05, 1736.63it/s, env_step=4475520, len=61, n/ep=1, n/st=90, player_2/loss=0.034, rew=-1.00]                                  
+Epoch #444: test_reward: 0.600000 ± 0.663325, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #445: 10080it [00:05, 1712.08it/s, env_step=4485600, len=53, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.00]                                   
+Epoch #445: test_reward: 0.600000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #446: 10080it [00:05, 1764.96it/s, env_step=4495680, len=62, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+Epoch #446: test_reward: 0.500000 ± 0.670820, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #447: 10080it [00:05, 1789.53it/s, env_step=4505760, len=53, n/ep=1, n/st=90, player_2/loss=0.033, rew=-1.00]                                  
+Epoch #447: test_reward: -0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #448: 10080it [00:05, 1852.28it/s, env_step=4515840, len=63, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                  
+Epoch #448: test_reward: 0.100000 ± 0.830662, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #449: 10080it [00:05, 1815.11it/s, env_step=4525920, len=55, n/ep=2, n/st=90, player_2/loss=0.027, rew=-1.00]                                  
+Epoch #449: test_reward: 0.300000 ± 0.781025, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #450: 10080it [00:05, 1814.37it/s, env_step=4536000, len=56, n/ep=3, n/st=90, player_2/loss=0.026, rew=0.33]                                   
+Epoch #450: test_reward: 0.400000 ± 0.916515, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #451: 10080it [00:05, 1834.52it/s, env_step=4546080, len=60, n/ep=1, n/st=90, player_2/loss=0.024, rew=0.00]                                   
+Epoch #451: test_reward: -0.400000 ± 0.800000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #452: 10080it [00:05, 1779.87it/s, env_step=4556160, len=53, n/ep=0, n/st=90, player_2/loss=0.032, rew=-1.00]                                  
+Epoch #452: test_reward: 0.000000 ± 1.000000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #453: 10080it [00:05, 1824.39it/s, env_step=4566240, len=44, n/ep=1, n/st=90, player_2/loss=0.029, rew=1.00]                                   
+Epoch #453: test_reward: -0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #454: 10080it [00:05, 1830.48it/s, env_step=4576320, len=55, n/ep=3, n/st=90, player_2/loss=0.035, rew=0.33]                                   
+Epoch #454: test_reward: 0.100000 ± 0.943398, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #455: 10080it [00:05, 1828.67it/s, env_step=4586400, len=67, n/ep=1, n/st=90, player_2/loss=0.030, rew=-1.00]                                  
+Epoch #455: test_reward: 0.300000 ± 0.900000, best_reward: 0.800000 ± 0.400000 in #24
+Epoch #456: 10080it [00:05, 1828.60it/s, env_step=4596480, len=58, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                   
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #456: test_reward: 0.900000 ± 0.300000, best_reward: 0.900000 ± 0.300000 in #456
+{'duration': '2519.98s', 'train_time/model': '1241.34s', 'test_step': 261955, 'test_episode': 4570, 'test_time': '62.50s', 'test_speed': '4191.43 step/s', 'best_reward': 0.9, 'best_result': '0.90 ± 0.30', 'train_step': 4596480, 'train_episode': 79964, 'train_time/collector': '1216.14s', 'train_speed': '1870.41 step/s'}
+{'best_result': '0.90 ± 0.30',
+ 'best_reward': 0.9,
+ 'duration': '2519.98s',
+ 'test_episode': 4570,
+ 'test_speed': '4191.43 step/s',
+ 'test_step': 261955,
+ 'test_time': '62.50s',
+ 'train_episode': 79964,
+ 'train_speed': '1870.41 step/s',
+ 'train_step': 4596480,
+ 'train_time/collector': '1216.14s',
+ 'train_time/model': '1241.34s'}
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ 
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ ^C
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ python tianshou_train.py --n-step=3 --epoch=1000 --resume-path="./log/tic_tac_toe/dqn/policy.pth"
+2024-03-10 04:15:26.527380: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-03-10 04:15:27.173839: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #1: 10080it [00:06, 1655.66it/s, env_step=10080, len=56, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                       
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #1: test_reward: 0.266667 ± 0.891939, best_reward: 0.266667 ± 0.891939 in #1
+Epoch #2: 10080it [00:05, 1881.58it/s, env_step=20160, len=38, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                       
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #2: test_reward: 0.433333 ± 0.843933, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #3: 10080it [00:05, 1937.37it/s, env_step=30240, len=52, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                       
+Epoch #3: test_reward: 0.200000 ± 0.945163, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #4: 10080it [00:05, 1921.59it/s, env_step=40320, len=64, n/ep=2, n/st=90, player_2/loss=0.027, rew=0.50]                                       
+Epoch #4: test_reward: 0.166667 ± 0.897527, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #5: 10080it [00:05, 1928.24it/s, env_step=50400, len=64, n/ep=3, n/st=90, player_2/loss=0.028, rew=0.33]                                       
+Epoch #5: test_reward: -0.066667 ± 0.771722, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #6: 10080it [00:05, 1924.00it/s, env_step=60480, len=56, n/ep=0, n/st=90, player_2/loss=0.027, rew=1.00]                                       
+Epoch #6: test_reward: 0.333333 ± 0.869227, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #7: 10080it [00:05, 1903.74it/s, env_step=70560, len=54, n/ep=4, n/st=90, player_2/loss=0.033, rew=0.00]                                       
+Epoch #7: test_reward: 0.433333 ± 0.715697, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #8: 10080it [00:05, 1866.68it/s, env_step=80640, len=55, n/ep=4, n/st=90, player_2/loss=0.029, rew=0.50]                                       
+Epoch #8: test_reward: 0.133333 ± 0.884433, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #9: 10080it [00:05, 1887.63it/s, env_step=90720, len=62, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                       
+Epoch #9: test_reward: 0.133333 ± 0.845905, best_reward: 0.433333 ± 0.843933 in #2
+Epoch #10: 10080it [00:05, 1891.49it/s, env_step=100800, len=46, n/ep=2, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #10: test_reward: 0.466667 ± 0.845905, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #11: 10080it [00:05, 1905.26it/s, env_step=110880, len=53, n/ep=0, n/st=90, player_2/loss=0.033, rew=0.50]                                     
+Epoch #11: test_reward: 0.100000 ± 0.907377, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #12: 10080it [00:05, 1902.26it/s, env_step=120960, len=59, n/ep=2, n/st=90, player_2/loss=0.027, rew=0.50]                                     
+Epoch #12: test_reward: 0.266667 ± 0.813770, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #13: 10080it [00:05, 1882.27it/s, env_step=131040, len=57, n/ep=1, n/st=90, player_2/loss=0.032, rew=-1.00]                                    
+Epoch #13: test_reward: 0.333333 ± 0.869227, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #14: 10080it [00:05, 1852.00it/s, env_step=141120, len=59, n/ep=3, n/st=90, player_2/loss=0.022, rew=0.00]                                     
+Epoch #14: test_reward: 0.333333 ± 0.829993, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #15: 10080it [00:05, 1881.86it/s, env_step=151200, len=57, n/ep=4, n/st=90, player_2/loss=0.024, rew=1.00]                                     
+Epoch #15: test_reward: 0.300000 ± 0.822598, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #16: 10080it [00:05, 1942.73it/s, env_step=161280, len=54, n/ep=0, n/st=90, player_2/loss=0.025, rew=0.00]                                     
+Epoch #16: test_reward: -0.166667 ± 0.933928, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #17: 10080it [00:05, 1931.97it/s, env_step=171360, len=62, n/ep=3, n/st=90, player_2/loss=0.028, rew=-0.67]                                    
+Epoch #17: test_reward: 0.166667 ± 0.897527, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #18: 10080it [00:05, 1843.84it/s, env_step=181440, len=62, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.50]                                     
+Epoch #18: test_reward: 0.400000 ± 0.840635, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #19: 10080it [00:05, 1771.25it/s, env_step=191520, len=63, n/ep=1, n/st=90, player_2/loss=0.026, rew=0.00]                                     
+Epoch #19: test_reward: 0.166667 ± 0.897527, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #20: 10080it [00:05, 1929.72it/s, env_step=201600, len=57, n/ep=0, n/st=90, player_2/loss=0.025, rew=0.00]                                     
+Epoch #20: test_reward: 0.333333 ± 0.869227, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #21: 10080it [00:05, 1846.05it/s, env_step=211680, len=63, n/ep=3, n/st=90, player_2/loss=0.023, rew=0.00]                                     
+Epoch #21: test_reward: 0.300000 ± 0.862168, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #22: 10080it [00:05, 1908.73it/s, env_step=221760, len=55, n/ep=2, n/st=90, player_2/loss=0.032, rew=1.00]                                     
+Epoch #22: test_reward: -0.066667 ± 0.813770, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #23: 10080it [00:05, 1926.21it/s, env_step=231840, len=59, n/ep=3, n/st=90, player_2/loss=0.031, rew=-0.67]                                    
+Epoch #23: test_reward: 0.133333 ± 0.956847, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #24: 10080it [00:05, 1926.13it/s, env_step=241920, len=59, n/ep=1, n/st=90, player_2/loss=0.028, rew=0.00]                                     
+Epoch #24: test_reward: 0.133333 ± 0.805536, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #25: 10080it [00:05, 1934.64it/s, env_step=252000, len=58, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.00]                                     
+Epoch #25: test_reward: 0.000000 ± 0.894427, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #26: 10080it [00:05, 1906.50it/s, env_step=262080, len=61, n/ep=1, n/st=90, player_2/loss=0.034, rew=-1.00]                                    
+Epoch #26: test_reward: 0.066667 ± 0.928559, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #27: 10080it [00:05, 1903.14it/s, env_step=272160, len=51, n/ep=2, n/st=90, player_2/loss=0.031, rew=0.00]                                     
+Epoch #27: test_reward: 0.366667 ± 0.874960, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #28: 10080it [00:05, 1867.32it/s, env_step=282240, len=58, n/ep=2, n/st=90, player_2/loss=0.029, rew=-0.50]                                    
+Epoch #28: test_reward: 0.200000 ± 0.832666, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #29: 10080it [00:05, 1895.38it/s, env_step=292320, len=58, n/ep=1, n/st=90, player_2/loss=0.039, rew=1.00]                                     
+Epoch #29: test_reward: 0.133333 ± 0.956847, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #30: 10080it [00:05, 1874.00it/s, env_step=302400, len=53, n/ep=0, n/st=90, player_2/loss=0.035, rew=-1.00]                                    
+Epoch #30: test_reward: 0.133333 ± 0.956847, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #31: 10080it [00:05, 1916.26it/s, env_step=312480, len=57, n/ep=0, n/st=90, player_2/loss=0.038, rew=-1.00]                                    
+Epoch #31: test_reward: -0.100000 ± 0.978093, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #32: 10080it [00:05, 1880.90it/s, env_step=322560, len=59, n/ep=5, n/st=90, player_2/loss=0.039, rew=-0.20]                                    
+Epoch #32: test_reward: -0.133333 ± 0.956847, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #33: 10080it [00:05, 1900.16it/s, env_step=332640, len=65, n/ep=0, n/st=90, player_2/loss=0.034, rew=0.00]                                     
+Epoch #33: test_reward: 0.200000 ± 0.832666, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #34: 10080it [00:05, 1889.62it/s, env_step=342720, len=62, n/ep=1, n/st=90, player_2/loss=0.033, rew=0.00]                                     
+Epoch #34: test_reward: 0.233333 ± 0.919541, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #35: 10080it [00:05, 1885.38it/s, env_step=352800, len=60, n/ep=2, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #35: test_reward: 0.133333 ± 0.884433, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #36: 10080it [00:05, 1916.78it/s, env_step=362880, len=57, n/ep=2, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+Epoch #36: test_reward: 0.000000 ± 0.966092, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #37: 10080it [00:05, 1828.10it/s, env_step=372960, len=46, n/ep=2, n/st=90, player_2/loss=0.027, rew=0.00]                                     
+Epoch #37: test_reward: -0.133333 ± 0.921352, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #38: 10080it [00:05, 1849.11it/s, env_step=383040, len=57, n/ep=2, n/st=90, player_2/loss=0.029, rew=0.00]                                     
+Epoch #38: test_reward: -0.233333 ± 0.882547, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #39: 10080it [00:05, 1888.75it/s, env_step=393120, len=59, n/ep=2, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #39: test_reward: -0.133333 ± 0.921352, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #40: 10080it [00:05, 1951.22it/s, env_step=403200, len=47, n/ep=2, n/st=90, player_2/loss=0.037, rew=0.00]                                     
+Epoch #40: test_reward: 0.000000 ± 0.930949, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #41: 10080it [00:05, 1920.87it/s, env_step=413280, len=60, n/ep=1, n/st=90, player_2/loss=0.035, rew=1.00]                                     
+Epoch #41: test_reward: -0.066667 ± 0.928559, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #42: 10080it [00:05, 1872.99it/s, env_step=423360, len=55, n/ep=2, n/st=90, player_2/loss=0.034, rew=0.00]                                     
+Epoch #42: test_reward: -0.033333 ± 0.948098, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #43: 10080it [00:05, 1901.65it/s, env_step=433440, len=53, n/ep=2, n/st=90, player_2/loss=0.034, rew=-1.00]                                    
+Epoch #43: test_reward: 0.100000 ± 0.907377, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #44: 10080it [00:05, 1905.47it/s, env_step=443520, len=49, n/ep=1, n/st=90, player_2/loss=0.035, rew=-1.00]                                    
+Epoch #44: test_reward: 0.200000 ± 0.871780, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #45: 10080it [00:05, 1881.23it/s, env_step=453600, len=47, n/ep=0, n/st=90, player_2/loss=0.032, rew=0.33]                                     
+Epoch #45: test_reward: 0.166667 ± 0.859586, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #46: 10080it [00:05, 1840.96it/s, env_step=463680, len=56, n/ep=1, n/st=90, player_2/loss=0.035, rew=1.00]                                     
+Epoch #46: test_reward: 0.133333 ± 0.956847, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #47: 10080it [00:05, 1809.72it/s, env_step=473760, len=52, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                     
+Epoch #47: test_reward: 0.333333 ± 0.829993, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #48: 10080it [00:05, 1911.49it/s, env_step=483840, len=55, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.33]                                     
+Epoch #48: test_reward: 0.000000 ± 0.930949, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #49: 10080it [00:05, 1921.93it/s, env_step=493920, len=47, n/ep=0, n/st=90, player_2/loss=0.033, rew=1.00]                                     
+Epoch #49: test_reward: 0.300000 ± 0.900000, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #50: 10080it [00:05, 1917.92it/s, env_step=504000, len=48, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                     
+Epoch #50: test_reward: 0.433333 ± 0.843933, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #51: 10080it [00:05, 1880.49it/s, env_step=514080, len=52, n/ep=4, n/st=90, player_2/loss=0.035, rew=0.00]                                     
+Epoch #51: test_reward: 0.433333 ± 0.843933, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #52: 10080it [00:05, 1919.86it/s, env_step=524160, len=53, n/ep=2, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+Epoch #52: test_reward: 0.100000 ± 0.978093, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #53: 10080it [00:05, 1854.04it/s, env_step=534240, len=46, n/ep=1, n/st=90, player_2/loss=0.034, rew=1.00]                                     
+Epoch #53: test_reward: -0.033333 ± 0.948098, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #54: 10080it [00:05, 1875.30it/s, env_step=544320, len=63, n/ep=1, n/st=90, player_2/loss=0.039, rew=-1.00]                                    
+Epoch #54: test_reward: 0.266667 ± 0.853750, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #55: 10080it [00:05, 1906.95it/s, env_step=554400, len=58, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+Epoch #55: test_reward: 0.066667 ± 0.853750, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #56: 10080it [00:05, 1890.36it/s, env_step=564480, len=59, n/ep=1, n/st=90, player_2/loss=0.033, rew=-1.00]                                    
+Epoch #56: test_reward: 0.133333 ± 0.845905, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #57: 10080it [00:05, 1902.42it/s, env_step=574560, len=56, n/ep=2, n/st=90, player_2/loss=0.031, rew=0.00]                                     
+Epoch #57: test_reward: -0.066667 ± 0.928559, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #58: 10080it [00:05, 1885.80it/s, env_step=584640, len=50, n/ep=2, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #58: test_reward: 0.300000 ± 0.862168, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #59: 10080it [00:05, 1900.35it/s, env_step=594720, len=58, n/ep=4, n/st=90, player_2/loss=0.027, rew=0.25]                                     
+Epoch #59: test_reward: -0.100000 ± 0.978093, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #60: 10080it [00:05, 1902.37it/s, env_step=604800, len=57, n/ep=5, n/st=90, player_2/loss=0.031, rew=-0.20]                                    
+Epoch #60: test_reward: 0.200000 ± 0.871780, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #61: 10080it [00:05, 1873.91it/s, env_step=614880, len=62, n/ep=1, n/st=90, player_2/loss=0.029, rew=0.00]                                     
+Epoch #61: test_reward: 0.400000 ± 0.757188, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #62: 10080it [00:05, 1857.76it/s, env_step=624960, len=62, n/ep=2, n/st=90, player_2/loss=0.032, rew=-1.00]                                    
+Epoch #62: test_reward: -0.100000 ± 0.869866, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #63: 10080it [00:05, 1845.11it/s, env_step=635040, len=63, n/ep=0, n/st=90, player_2/loss=0.033, rew=0.50]                                     
+Epoch #63: test_reward: 0.033333 ± 0.948098, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #64: 10080it [00:05, 1923.69it/s, env_step=645120, len=64, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.50]                                     
+Epoch #64: test_reward: 0.233333 ± 0.843933, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #65: 10080it [00:05, 1888.95it/s, env_step=655200, len=60, n/ep=0, n/st=90, player_2/loss=0.027, rew=0.33]                                     
+Epoch #65: test_reward: 0.333333 ± 0.745356, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #66: 10080it [00:05, 1867.68it/s, env_step=665280, len=63, n/ep=3, n/st=90, player_2/loss=0.027, rew=-0.33]                                    
+Epoch #66: test_reward: 0.466667 ± 0.845905, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #67: 10080it [00:05, 1905.66it/s, env_step=675360, len=51, n/ep=3, n/st=90, player_2/loss=0.028, rew=-0.33]                                    
+Epoch #67: test_reward: 0.466667 ± 0.718022, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #68: 10080it [00:05, 1884.96it/s, env_step=685440, len=54, n/ep=3, n/st=90, player_2/loss=0.026, rew=-0.33]                                    
+Epoch #68: test_reward: 0.200000 ± 0.909212, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #69: 10080it [00:05, 1869.99it/s, env_step=695520, len=62, n/ep=2, n/st=90, player_2/loss=0.034, rew=0.00]                                     
+Epoch #69: test_reward: 0.433333 ± 0.803465, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #70: 10080it [00:05, 1799.68it/s, env_step=705600, len=52, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.50]                                     
+Epoch #70: test_reward: 0.133333 ± 0.921352, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #71: 10080it [00:05, 1894.69it/s, env_step=715680, len=61, n/ep=0, n/st=90, player_2/loss=0.033, rew=-1.00]                                    
+Epoch #71: test_reward: 0.000000 ± 0.930949, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #72: 10080it [00:05, 1918.27it/s, env_step=725760, len=62, n/ep=2, n/st=90, player_2/loss=0.032, rew=-0.50]                                    
+Epoch #72: test_reward: -0.066667 ± 0.928559, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #73: 10080it [00:05, 1862.66it/s, env_step=735840, len=54, n/ep=3, n/st=90, player_2/loss=0.036, rew=0.33]                                     
+Epoch #73: test_reward: -0.300000 ± 0.900000, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #74: 10080it [00:05, 1873.46it/s, env_step=745920, len=53, n/ep=0, n/st=90, player_2/loss=0.032, rew=0.33]                                     
+Epoch #74: test_reward: 0.066667 ± 0.963789, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #75: 10080it [00:05, 1914.45it/s, env_step=756000, len=52, n/ep=0, n/st=90, player_2/loss=0.035, rew=0.00]                                     
+Epoch #75: test_reward: -0.266667 ± 0.813770, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #76: 10080it [00:05, 1930.63it/s, env_step=766080, len=52, n/ep=2, n/st=90, player_2/loss=0.033, rew=-1.00]                                    
+Epoch #76: test_reward: 0.366667 ± 0.795124, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #77: 10080it [00:05, 1908.20it/s, env_step=776160, len=57, n/ep=2, n/st=90, player_2/loss=0.034, rew=0.00]                                     
+Epoch #77: test_reward: 0.400000 ± 0.840635, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #78: 10080it [00:05, 1899.57it/s, env_step=786240, len=53, n/ep=3, n/st=90, player_2/loss=0.039, rew=-1.00]                                    
+Epoch #78: test_reward: 0.266667 ± 0.853750, best_reward: 0.466667 ± 0.845905 in #10
+Epoch #79: 10080it [00:05, 1759.29it/s, env_step=796320, len=54, n/ep=0, n/st=90, player_2/loss=0.028, rew=0.67]                                     
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #79: test_reward: 0.533333 ± 0.763035, best_reward: 0.533333 ± 0.763035 in #79
+Epoch #80: 10080it [00:05, 1895.90it/s, env_step=806400, len=48, n/ep=3, n/st=90, player_2/loss=0.031, rew=1.00]                                     
+Epoch #80: test_reward: 0.333333 ± 0.869227, best_reward: 0.533333 ± 0.763035 in #79
+Epoch #81: 10080it [00:05, 1758.90it/s, env_step=816480, len=59, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                    
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #81: test_reward: 0.666667 ± 0.596285, best_reward: 0.666667 ± 0.596285 in #81
+Epoch #82:  44%|########8           | 4410/10000 [00:02<00:03, 1755.18it/s, env_step=820800, len=51, n/ep=0, n/st=90, player_2/loss=0.037, rew=-1.00]Epoch #82:  44%|########8           | 4410/10000 [00:02<00:03, 1804.91it/s, env_step=820800, len=51, n/ep=0, n/st=90, player_2/loss=0.037, rew=-1.00]
+Traceback (most recent call last):
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/tianshou_train.py", line 22, in <module>
+    test_tic_tac_toe(get_args())
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/tianshou_train.py", line 12, in test_tic_tac_toe
+    result, agent = train_agent(args)
+                    ^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/tianshou_uttt.py", line 219, in train_agent
+    ).run()
+      ^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/trainer/base.py", line 441, in run
+    deque(self, maxlen=0)  # feed the entire iterator into a zero-length deque
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/trainer/base.py", line 299, in __next__
+    self.policy_update_fn(data, result)
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/trainer/offpolicy.py", line 122, in policy_update_fn
+    losses = self.policy.update(self.batch_size, self.train_collector.buffer)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/base.py", line 276, in update
+    batch = self.process_fn(batch, buffer, indices)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/multiagent/mapolicy.py", line 75, in process_fn
+    results[agent] = policy.process_fn(tmp_batch, buffer, tmp_indice)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/modelfree/dqn.py", line 106, in process_fn
+    batch = self.compute_nstep_return(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/base.py", line 391, in compute_nstep_return
+    target_q_torch = target_q_fn(buffer, terminal)  # (bsz, ?)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/modelfree/dqn.py", line 87, in _target_q
+    result = self(batch, input="obs_next")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/modelfree/dqn.py", line 160, in forward
+    logits, hidden = model(obs_next, state=state, info=batch.info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/utils/net/common.py", line 248, in forward
+    logits = self.model(obs)
+             ^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/utils/net/common.py", line 145, in forward
+    return self.model(obs)
+           ^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1507, in _wrapped_call_impl
+    def _wrapped_call_impl(self, *args, **kwargs):
+
+KeyboardInterrupt
+^C
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ python tianshou_train.py --n-step=3 --epoch=10000^C--resume-path="./log/tic_tac_toe/dqn
+/policy.pth"
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ ^C
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ python tianshou_train.py --n-step=3 --epoch=1000 --resume-path="./log/tic_tac_toe/dqn/policy.pth"
+2024-03-10 04:24:54.539812: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-03-10 04:24:55.176570: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #1: 10080it [00:06, 1671.72it/s, env_step=10080, len=47, n/ep=3, n/st=90, player_2/loss=0.022, rew=0.33]                                       
+Epoch #1: test_reward: 0.410000 ± 0.849647, best_reward: 0.420000 ± 0.826801 in #0
+Epoch #2:  41%|#########1            | 4140/10000 [00:02<00:03, 1892.97it/s, env_step=14220, len=62, n/ep=2, n/st=90, player_2/loss=0.024, rew=-0.50]Epoch #2:  42%|#########3            | 4230/10000 [00:02<00:03, 1893.22it/s, env_step=14220, len=62, n/ep=2, n/st=90, player_2/loss=0.024, rew=-0.50]
+Traceback (most recent call last):
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/tianshou_train.py", line 22, in <module>
+    test_tic_tac_toe(get_args())
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/tianshou_train.py", line 12, in test_tic_tac_toe
+    result, agent = train_agent(args)
+                    ^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/tianshou_uttt.py", line 219, in train_agent
+    ).run()
+      ^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/trainer/base.py", line 441, in run
+    deque(self, maxlen=0)  # feed the entire iterator into a zero-length deque
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/trainer/base.py", line 299, in __next__
+    self.policy_update_fn(data, result)
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/trainer/offpolicy.py", line 122, in policy_update_fn
+    losses = self.policy.update(self.batch_size, self.train_collector.buffer)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/base.py", line 276, in update
+    batch = self.process_fn(batch, buffer, indices)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/multiagent/mapolicy.py", line 75, in process_fn
+    results[agent] = policy.process_fn(tmp_batch, buffer, tmp_indice)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/modelfree/dqn.py", line 106, in process_fn
+    batch = self.compute_nstep_return(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/base.py", line 391, in compute_nstep_return
+    target_q_torch = target_q_fn(buffer, terminal)  # (bsz, ?)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/modelfree/dqn.py", line 90, in _target_q
+    target_q = self(batch, model="model_old", input="obs_next").logits
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/policy/modelfree/dqn.py", line 160, in forward
+    logits, hidden = model(obs_next, state=state, info=batch.info)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/utils/net/common.py", line 248, in forward
+    logits = self.model(obs)
+             ^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1511, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1520, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/seanyang/Documents/ultimate-tic-tac-toe/uttt/lib/python3.11/site-packages/tianshou/utils/net/common.py", line 142, in forward
+    obs = torch.as_tensor(obs, device=self.device, dtype=torch.float32)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+^C
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ ^C
+(uttt) (base) seanyang@Sean:~/Documents/ultimate-tic-tac-toe$ python tianshou_train.py --n-step=3 --epoch=100000 --resume-path="./log/tic_tac_toe/dqn
+/policy.pth"
+2024-03-10 04:25:20.348241: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-03-10 04:25:20.990332: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #1: 10080it [00:06, 1649.28it/s, env_step=10080, len=47, n/ep=3, n/st=90, player_2/loss=0.022, rew=0.33]                                       
+Epoch #1: test_reward: 0.410000 ± 0.849647, best_reward: 0.420000 ± 0.826801 in #0
+Epoch #2: 10080it [00:05, 1891.26it/s, env_step=20160, len=54, n/ep=2, n/st=90, player_2/loss=0.027, rew=0.50]                                       
+Epoch #2: test_reward: 0.360000 ± 0.877724, best_reward: 0.420000 ± 0.826801 in #0
+Epoch #3: 10080it [00:05, 1894.57it/s, env_step=30240, len=42, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.33]                                       
+Epoch #3: test_reward: 0.410000 ± 0.788606, best_reward: 0.420000 ± 0.826801 in #0
+Epoch #4: 10080it [00:05, 1896.17it/s, env_step=40320, len=57, n/ep=2, n/st=90, player_2/loss=0.031, rew=1.00]                                       
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #4: test_reward: 0.480000 ± 0.780769, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #5: 10080it [00:05, 1903.63it/s, env_step=50400, len=58, n/ep=1, n/st=90, player_2/loss=0.027, rew=1.00]                                       
+Epoch #5: test_reward: 0.290000 ± 0.863655, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #6: 10080it [00:05, 1910.41it/s, env_step=60480, len=53, n/ep=1, n/st=90, player_2/loss=0.028, rew=0.00]                                       
+Epoch #6: test_reward: 0.230000 ± 0.936536, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #7: 10080it [00:05, 1885.90it/s, env_step=70560, len=49, n/ep=1, n/st=90, player_2/loss=0.035, rew=-1.00]                                      
+Epoch #7: test_reward: 0.330000 ± 0.849176, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #8: 10080it [00:05, 1877.85it/s, env_step=80640, len=47, n/ep=2, n/st=90, player_2/loss=0.033, rew=1.00]                                       
+Epoch #8: test_reward: 0.290000 ± 0.919728, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #9: 10080it [00:05, 1846.28it/s, env_step=90720, len=63, n/ep=1, n/st=90, player_2/loss=0.030, rew=0.00]                                       
+Epoch #9: test_reward: 0.370000 ± 0.844452, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #10: 10080it [00:05, 1830.39it/s, env_step=100800, len=68, n/ep=1, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #10: test_reward: 0.370000 ± 0.844452, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #11: 10080it [00:05, 1874.04it/s, env_step=110880, len=53, n/ep=2, n/st=90, player_2/loss=0.036, rew=1.00]                                     
+Epoch #11: test_reward: 0.470000 ± 0.805667, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #12: 10080it [00:05, 1891.80it/s, env_step=120960, len=56, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+Epoch #12: test_reward: 0.130000 ± 0.890562, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #13: 10080it [00:05, 1898.08it/s, env_step=131040, len=56, n/ep=1, n/st=90, player_2/loss=0.034, rew=1.00]                                     
+Epoch #13: test_reward: 0.020000 ± 0.871550, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #14: 10080it [00:05, 1889.88it/s, env_step=141120, len=60, n/ep=0, n/st=90, player_2/loss=0.028, rew=0.00]                                     
+Epoch #14: test_reward: -0.020000 ± 0.871550, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #15: 10080it [00:05, 1908.27it/s, env_step=151200, len=54, n/ep=4, n/st=90, player_2/loss=0.032, rew=0.50]                                     
+Epoch #15: test_reward: 0.150000 ± 0.898610, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #16: 10080it [00:05, 1900.37it/s, env_step=161280, len=65, n/ep=1, n/st=90, player_2/loss=0.032, rew=0.00]                                     
+Epoch #16: test_reward: 0.060000 ± 0.925419, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #17: 10080it [00:05, 1919.59it/s, env_step=171360, len=49, n/ep=2, n/st=90, player_2/loss=0.034, rew=0.00]                                     
+Epoch #17: test_reward: -0.030000 ± 0.899500, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #18: 10080it [00:05, 1925.06it/s, env_step=181440, len=52, n/ep=3, n/st=90, player_2/loss=0.037, rew=1.00]                                     
+Epoch #18: test_reward: 0.030000 ± 0.888313, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #19: 10080it [00:05, 1906.08it/s, env_step=191520, len=57, n/ep=3, n/st=90, player_2/loss=0.038, rew=0.33]                                     
+Epoch #19: test_reward: 0.070000 ± 0.919293, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #20: 10080it [00:05, 1906.23it/s, env_step=201600, len=57, n/ep=0, n/st=90, player_2/loss=0.028, rew=-1.00]                                    
+Epoch #20: test_reward: 0.060000 ± 0.914549, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #21: 10080it [00:05, 1915.07it/s, env_step=211680, len=50, n/ep=2, n/st=90, player_2/loss=0.033, rew=1.00]                                     
+Epoch #21: test_reward: 0.060000 ± 0.881136, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #22: 10080it [00:05, 1910.22it/s, env_step=221760, len=54, n/ep=1, n/st=90, player_2/loss=0.034, rew=1.00]                                     
+Epoch #22: test_reward: 0.170000 ± 0.895042, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #23: 10080it [00:05, 1928.60it/s, env_step=231840, len=57, n/ep=4, n/st=90, player_2/loss=0.030, rew=0.50]                                     
+Epoch #23: test_reward: 0.140000 ± 0.872009, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #24: 10080it [00:05, 1878.38it/s, env_step=241920, len=48, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                     
+Epoch #24: test_reward: 0.300000 ± 0.888819, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #25: 10080it [00:05, 1889.80it/s, env_step=252000, len=57, n/ep=1, n/st=90, player_2/loss=0.033, rew=-1.00]                                    
+Epoch #25: test_reward: 0.260000 ± 0.867410, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #26: 10080it [00:05, 1847.23it/s, env_step=262080, len=55, n/ep=2, n/st=90, player_2/loss=0.031, rew=1.00]                                     
+Epoch #26: test_reward: 0.360000 ± 0.830903, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #27: 10080it [00:05, 1715.24it/s, env_step=272160, len=59, n/ep=1, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #27: test_reward: 0.400000 ± 0.848528, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #28: 10080it [00:05, 1935.52it/s, env_step=282240, len=50, n/ep=3, n/st=90, player_2/loss=0.031, rew=0.33]                                     
+Epoch #28: test_reward: 0.160000 ± 0.868562, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #29: 10080it [00:05, 1881.26it/s, env_step=292320, len=58, n/ep=0, n/st=90, player_2/loss=0.029, rew=1.00]                                     
+Epoch #29: test_reward: 0.170000 ± 0.927955, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #30: 10080it [00:05, 1914.39it/s, env_step=302400, len=64, n/ep=0, n/st=90, player_2/loss=0.033, rew=0.50]                                     
+Epoch #30: test_reward: 0.190000 ± 0.868274, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #31: 10080it [00:05, 1887.53it/s, env_step=312480, len=62, n/ep=2, n/st=90, player_2/loss=0.029, rew=1.00]                                     
+Epoch #31: test_reward: 0.240000 ± 0.895768, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #32: 10080it [00:05, 1883.00it/s, env_step=322560, len=61, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.00]                                     
+Epoch #32: test_reward: 0.170000 ± 0.883799, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #33: 10080it [00:05, 1869.32it/s, env_step=332640, len=61, n/ep=0, n/st=90, player_2/loss=0.026, rew=1.00]                                     
+Epoch #33: test_reward: 0.070000 ± 0.897274, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #34: 10080it [00:05, 1886.93it/s, env_step=342720, len=65, n/ep=1, n/st=90, player_2/loss=0.033, rew=0.00]                                     
+Epoch #34: test_reward: 0.230000 ± 0.834925, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #35: 10080it [00:05, 1854.23it/s, env_step=352800, len=49, n/ep=0, n/st=90, player_2/loss=0.027, rew=0.00]                                     
+Epoch #35: test_reward: 0.130000 ± 0.879261, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #36: 10080it [00:05, 1900.36it/s, env_step=362880, len=63, n/ep=1, n/st=90, player_2/loss=0.031, rew=0.00]                                     
+Epoch #36: test_reward: 0.170000 ± 0.883799, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #37: 10080it [00:05, 1897.27it/s, env_step=372960, len=43, n/ep=1, n/st=90, player_2/loss=0.028, rew=-1.00]                                    
+Epoch #37: test_reward: 0.050000 ± 0.952628, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #38: 10080it [00:05, 1862.11it/s, env_step=383040, len=55, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.33]                                     
+Epoch #38: test_reward: 0.140000 ± 0.916733, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #39: 10080it [00:05, 1876.81it/s, env_step=393120, len=49, n/ep=3, n/st=90, player_2/loss=0.038, rew=0.33]                                     
+Epoch #39: test_reward: 0.390000 ± 0.870575, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #40: 10080it [00:05, 1900.84it/s, env_step=403200, len=38, n/ep=1, n/st=90, player_2/loss=0.036, rew=1.00]                                     
+Epoch #40: test_reward: 0.360000 ± 0.830903, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #41: 10080it [00:05, 1867.19it/s, env_step=413280, len=49, n/ep=0, n/st=90, player_2/loss=0.038, rew=0.33]                                     
+Epoch #41: test_reward: 0.420000 ± 0.814616, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #42: 10080it [00:05, 1912.20it/s, env_step=423360, len=57, n/ep=1, n/st=90, player_2/loss=0.031, rew=-1.00]                                    
+Epoch #42: test_reward: 0.360000 ± 0.854634, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #43: 10080it [00:05, 1890.69it/s, env_step=433440, len=46, n/ep=1, n/st=90, player_2/loss=0.032, rew=1.00]                                     
+Epoch #43: test_reward: 0.260000 ± 0.901332, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #44: 10080it [00:05, 1899.23it/s, env_step=443520, len=47, n/ep=0, n/st=90, player_2/loss=0.037, rew=1.00]                                     
+Epoch #44: test_reward: 0.180000 ± 0.887468, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #45: 10080it [00:05, 1900.92it/s, env_step=453600, len=55, n/ep=2, n/st=90, player_2/loss=0.034, rew=0.00]                                     
+Epoch #45: test_reward: 0.250000 ± 0.909670, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #46: 10080it [00:05, 1896.31it/s, env_step=463680, len=54, n/ep=3, n/st=90, player_2/loss=0.032, rew=-0.33]                                    
+Epoch #46: test_reward: 0.340000 ± 0.885664, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #47: 10080it [00:05, 1861.35it/s, env_step=473760, len=57, n/ep=0, n/st=90, player_2/loss=0.035, rew=0.60]                                     
+Epoch #47: test_reward: 0.330000 ± 0.906146, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #48: 10080it [00:05, 1873.84it/s, env_step=483840, len=58, n/ep=4, n/st=90, player_2/loss=0.028, rew=0.25]                                     
+Epoch #48: test_reward: 0.210000 ± 0.908790, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #49: 10080it [00:05, 1891.02it/s, env_step=493920, len=57, n/ep=3, n/st=90, player_2/loss=0.032, rew=0.33]                                     
+Epoch #49: test_reward: 0.230000 ± 0.903936, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #50: 10080it [00:05, 1913.93it/s, env_step=504000, len=51, n/ep=0, n/st=90, player_2/loss=0.035, rew=-1.00]                                    
+Epoch #50: test_reward: 0.360000 ± 0.889044, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #51: 10080it [00:05, 1927.22it/s, env_step=514080, len=64, n/ep=2, n/st=90, player_2/loss=0.037, rew=-1.00]                                    
+Epoch #51: test_reward: 0.240000 ± 0.861626, best_reward: 0.480000 ± 0.780769 in #4
+Epoch #52: 10080it [00:05, 1896.35it/s, env_step=524160, len=59, n/ep=1, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #52: test_reward: 0.510000 ± 0.768049, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #53: 10080it [00:05, 1907.83it/s, env_step=534240, len=60, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.50]                                     
+Epoch #53: test_reward: 0.240000 ± 0.838093, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #54: 10080it [00:05, 1900.95it/s, env_step=544320, len=52, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.00]                                     
+Epoch #54: test_reward: 0.310000 ± 0.856680, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #55: 10080it [00:05, 1908.22it/s, env_step=554400, len=58, n/ep=0, n/st=90, player_2/loss=0.033, rew=1.00]                                     
+Epoch #55: test_reward: 0.320000 ± 0.858836, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #56: 10080it [00:05, 1943.90it/s, env_step=564480, len=51, n/ep=0, n/st=90, player_2/loss=0.033, rew=0.33]                                     
+Epoch #56: test_reward: 0.160000 ± 0.924338, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #57: 10080it [00:05, 1911.54it/s, env_step=574560, len=56, n/ep=4, n/st=90, player_2/loss=0.034, rew=0.50]                                     
+Epoch #57: test_reward: 0.210000 ± 0.908790, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #58: 10080it [00:05, 1885.44it/s, env_step=584640, len=63, n/ep=2, n/st=90, player_2/loss=0.033, rew=0.50]                                     
+Epoch #58: test_reward: 0.110000 ± 0.881986, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #59: 10080it [00:05, 1886.92it/s, env_step=594720, len=56, n/ep=3, n/st=90, player_2/loss=0.031, rew=-1.00]                                    
+Epoch #59: test_reward: 0.050000 ± 0.920598, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #60: 10080it [00:05, 1888.72it/s, env_step=604800, len=55, n/ep=1, n/st=90, player_2/loss=0.033, rew=-1.00]                                    
+Epoch #60: test_reward: 0.290000 ± 0.886510, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #61: 10080it [00:05, 1834.45it/s, env_step=614880, len=46, n/ep=2, n/st=90, player_2/loss=0.035, rew=0.00]                                     
+Epoch #61: test_reward: 0.160000 ± 0.924338, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #62: 10080it [00:05, 1891.03it/s, env_step=624960, len=50, n/ep=1, n/st=90, player_2/loss=0.037, rew=1.00]                                     
+Epoch #62: test_reward: 0.120000 ± 0.897552, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #63: 10080it [00:05, 1902.23it/s, env_step=635040, len=51, n/ep=1, n/st=90, player_2/loss=0.026, rew=-1.00]                                    
+Epoch #63: test_reward: 0.270000 ± 0.903936, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #64: 10080it [00:05, 1893.33it/s, env_step=645120, len=47, n/ep=3, n/st=90, player_2/loss=0.031, rew=-0.33]                                    
+Epoch #64: test_reward: 0.330000 ± 0.895042, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #65: 10080it [00:05, 1883.99it/s, env_step=655200, len=53, n/ep=2, n/st=90, player_2/loss=0.033, rew=-0.50]                                    
+Epoch #65: test_reward: 0.500000 ± 0.830662, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #66: 10080it [00:05, 1897.55it/s, env_step=665280, len=53, n/ep=0, n/st=90, player_2/loss=0.031, rew=1.00]                                     
+Epoch #66: test_reward: 0.040000 ± 0.947840, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #67: 10080it [00:05, 1878.27it/s, env_step=675360, len=48, n/ep=2, n/st=90, player_2/loss=0.031, rew=-1.00]                                    
+Epoch #67: test_reward: 0.160000 ± 0.845222, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #68: 10080it [00:05, 1870.93it/s, env_step=685440, len=49, n/ep=1, n/st=90, player_2/loss=0.030, rew=-1.00]                                    
+Epoch #68: test_reward: 0.130000 ± 0.923634, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #69: 10080it [00:05, 1908.90it/s, env_step=695520, len=63, n/ep=1, n/st=90, player_2/loss=0.033, rew=0.00]                                     
+Epoch #69: test_reward: 0.240000 ± 0.906863, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #70: 10080it [00:05, 1886.65it/s, env_step=705600, len=60, n/ep=2, n/st=90, player_2/loss=0.032, rew=0.00]                                     
+Epoch #70: test_reward: 0.240000 ± 0.861626, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #71: 10080it [00:05, 1875.32it/s, env_step=715680, len=52, n/ep=1, n/st=90, player_2/loss=0.029, rew=1.00]                                     
+Epoch #71: test_reward: 0.140000 ± 0.905759, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #72: 10080it [00:05, 1886.93it/s, env_step=725760, len=58, n/ep=3, n/st=90, player_2/loss=0.039, rew=0.67]                                     
+Epoch #72: test_reward: 0.190000 ± 0.856680, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #73: 10080it [00:05, 1893.28it/s, env_step=735840, len=62, n/ep=1, n/st=90, player_2/loss=0.029, rew=0.00]                                     
+Epoch #73: test_reward: 0.220000 ± 0.866949, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #74: 10080it [00:05, 1869.72it/s, env_step=745920, len=59, n/ep=2, n/st=90, player_2/loss=0.023, rew=1.00]                                     
+Epoch #74: test_reward: 0.220000 ± 0.878408, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #75: 10080it [00:05, 1920.19it/s, env_step=756000, len=55, n/ep=1, n/st=90, player_2/loss=0.028, rew=-1.00]                                    
+Epoch #75: test_reward: 0.210000 ± 0.863655, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #76: 10080it [00:05, 1929.74it/s, env_step=766080, len=57, n/ep=2, n/st=90, player_2/loss=0.030, rew=-0.50]                                    
+Epoch #76: test_reward: 0.160000 ± 0.880000, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #77: 10080it [00:05, 1914.86it/s, env_step=776160, len=63, n/ep=0, n/st=90, player_2/loss=0.035, rew=-0.50]                                    
+Epoch #77: test_reward: 0.190000 ± 0.879716, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #78: 10080it [00:05, 1906.02it/s, env_step=786240, len=63, n/ep=2, n/st=90, player_2/loss=0.035, rew=0.50]                                     
+Epoch #78: test_reward: 0.010000 ± 0.910988, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #79: 10080it [00:05, 1921.37it/s, env_step=796320, len=55, n/ep=2, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+Epoch #79: test_reward: 0.400000 ± 0.848528, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #80: 10080it [00:05, 1880.63it/s, env_step=806400, len=55, n/ep=1, n/st=90, player_2/loss=0.027, rew=-1.00]                                    
+Epoch #80: test_reward: 0.220000 ± 0.889719, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #81: 10080it [00:05, 1887.50it/s, env_step=816480, len=52, n/ep=1, n/st=90, player_2/loss=0.032, rew=0.00]                                     
+Epoch #81: test_reward: 0.400000 ± 0.836660, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #82: 10080it [00:05, 1886.62it/s, env_step=826560, len=50, n/ep=1, n/st=90, player_2/loss=0.030, rew=1.00]                                     
+Epoch #82: test_reward: 0.440000 ± 0.803990, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #83: 10080it [00:05, 1880.21it/s, env_step=836640, len=54, n/ep=1, n/st=90, player_2/loss=0.034, rew=1.00]                                     
+Epoch #83: test_reward: 0.240000 ± 0.895768, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #84: 10080it [00:05, 1884.56it/s, env_step=846720, len=50, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                     
+Epoch #84: test_reward: 0.230000 ± 0.881533, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #85: 10080it [00:05, 1910.02it/s, env_step=856800, len=60, n/ep=5, n/st=90, player_2/loss=0.030, rew=0.40]                                     
+Epoch #85: test_reward: 0.210000 ± 0.851998, best_reward: 0.510000 ± 0.768049 in #52
+Epoch #86: 10080it [00:05, 1927.66it/s, env_step=866880, len=50, n/ep=1, n/st=90, player_2/loss=0.024, rew=1.00]                                     
+save model to log/tic_tac_toe/dqn/policy.pth
+Epoch #86: test_reward: 0.570000 ± 0.751731, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #87: 10080it [00:05, 1876.19it/s, env_step=876960, len=49, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                    
+Epoch #87: test_reward: 0.300000 ± 0.768115, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #88: 10080it [00:05, 1886.24it/s, env_step=887040, len=55, n/ep=2, n/st=90, player_2/loss=0.027, rew=-0.50]                                    
+Epoch #88: test_reward: 0.390000 ± 0.811110, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #89: 10080it [00:05, 1910.19it/s, env_step=897120, len=61, n/ep=2, n/st=90, player_2/loss=0.033, rew=0.00]                                     
+Epoch #89: test_reward: 0.040000 ± 0.915642, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #90: 10080it [00:05, 1919.55it/s, env_step=907200, len=49, n/ep=5, n/st=90, player_2/loss=0.030, rew=0.40]                                     
+Epoch #90: test_reward: 0.400000 ± 0.860233, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #91: 10080it [00:05, 1912.27it/s, env_step=917280, len=58, n/ep=4, n/st=90, player_2/loss=0.027, rew=0.00]                                     
+Epoch #91: test_reward: 0.290000 ± 0.863655, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #92: 10080it [00:05, 1910.41it/s, env_step=927360, len=62, n/ep=2, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #92: test_reward: 0.320000 ± 0.904212, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #93: 10080it [00:05, 1893.19it/s, env_step=937440, len=57, n/ep=4, n/st=90, player_2/loss=0.023, rew=-0.50]                                    
+Epoch #93: test_reward: -0.130000 ± 0.912743, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #94: 10080it [00:05, 1892.95it/s, env_step=947520, len=58, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                     
+Epoch #94: test_reward: 0.140000 ± 0.905759, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #95: 10080it [00:05, 1909.32it/s, env_step=957600, len=44, n/ep=1, n/st=90, player_2/loss=0.034, rew=1.00]                                     
+Epoch #95: test_reward: 0.310000 ± 0.891011, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #96: 10080it [00:05, 1860.10it/s, env_step=967680, len=59, n/ep=3, n/st=90, player_2/loss=0.037, rew=0.33]                                     
+Epoch #96: test_reward: 0.230000 ± 0.925797, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #97: 10080it [00:05, 1905.11it/s, env_step=977760, len=57, n/ep=2, n/st=90, player_2/loss=0.032, rew=1.00]                                     
+Epoch #97: test_reward: 0.340000 ± 0.802745, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #98: 10080it [00:05, 1905.87it/s, env_step=987840, len=66, n/ep=1, n/st=90, player_2/loss=0.030, rew=0.00]                                     
+Epoch #98: test_reward: -0.040000 ± 0.882270, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #99: 10080it [00:05, 1885.85it/s, env_step=997920, len=51, n/ep=2, n/st=90, player_2/loss=0.027, rew=0.00]                                     
+Epoch #99: test_reward: 0.130000 ± 0.867813, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #100: 10080it [00:05, 1853.51it/s, env_step=1008000, len=61, n/ep=3, n/st=90, player_2/loss=0.033, rew=0.33]                                   
+Epoch #100: test_reward: 0.390000 ± 0.870575, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #101: 10080it [00:05, 1848.04it/s, env_step=1018080, len=59, n/ep=3, n/st=90, player_2/loss=0.037, rew=0.33]                                   
+Epoch #101: test_reward: 0.230000 ± 0.834925, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #102: 10080it [00:05, 1891.91it/s, env_step=1028160, len=59, n/ep=2, n/st=90, player_2/loss=0.025, rew=1.00]                                   
+Epoch #102: test_reward: 0.110000 ± 0.904378, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #103: 10080it [00:05, 1864.35it/s, env_step=1038240, len=60, n/ep=0, n/st=90, player_2/loss=0.032, rew=-0.40]                                  
+Epoch #103: test_reward: 0.290000 ± 0.828191, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #104: 10080it [00:05, 1901.59it/s, env_step=1048320, len=62, n/ep=1, n/st=90, player_2/loss=0.027, rew=1.00]                                   
+Epoch #104: test_reward: 0.130000 ± 0.856213, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #105: 10080it [00:05, 1891.78it/s, env_step=1058400, len=59, n/ep=0, n/st=90, player_2/loss=0.030, rew=0.25]                                   
+Epoch #105: test_reward: 0.160000 ± 0.891291, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #106: 10080it [00:05, 1879.71it/s, env_step=1068480, len=61, n/ep=1, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #106: test_reward: 0.170000 ± 0.837317, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #107: 10080it [00:05, 1893.03it/s, env_step=1078560, len=57, n/ep=2, n/st=90, player_2/loss=0.026, rew=-0.50]                                  
+Epoch #107: test_reward: 0.090000 ± 0.917551, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #108: 10080it [00:05, 1874.54it/s, env_step=1088640, len=53, n/ep=0, n/st=90, player_2/loss=0.026, rew=0.50]                                   
+Epoch #108: test_reward: 0.350000 ± 0.852936, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #109: 10080it [00:05, 1890.11it/s, env_step=1098720, len=58, n/ep=3, n/st=90, player_2/loss=0.030, rew=0.67]                                   
+Epoch #109: test_reward: 0.310000 ± 0.856680, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #110: 10080it [00:05, 1856.18it/s, env_step=1108800, len=59, n/ep=4, n/st=90, player_2/loss=0.029, rew=0.00]                                   
+Epoch #110: test_reward: 0.240000 ± 0.917824, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #111: 10080it [00:05, 1870.64it/s, env_step=1118880, len=48, n/ep=2, n/st=90, player_2/loss=0.028, rew=1.00]                                   
+Epoch #111: test_reward: 0.410000 ± 0.708449, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #112: 10080it [00:05, 1926.20it/s, env_step=1128960, len=61, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                  
+Epoch #112: test_reward: 0.360000 ± 0.866256, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #113: 10080it [00:05, 1926.89it/s, env_step=1139040, len=62, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.00]                                   
+Epoch #113: test_reward: 0.280000 ± 0.884081, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #114: 10080it [00:05, 1872.84it/s, env_step=1149120, len=54, n/ep=4, n/st=90, player_2/loss=0.032, rew=0.50]                                   
+Epoch #114: test_reward: 0.160000 ± 0.891291, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #115: 10080it [00:05, 1843.95it/s, env_step=1159200, len=48, n/ep=0, n/st=90, player_2/loss=0.027, rew=-0.67]                                  
+Epoch #115: test_reward: 0.220000 ± 0.878408, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #116: 10080it [00:05, 1853.40it/s, env_step=1169280, len=58, n/ep=4, n/st=90, player_2/loss=0.027, rew=0.50]                                   
+Epoch #116: test_reward: 0.030000 ± 0.910549, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #117: 10080it [00:05, 1880.32it/s, env_step=1179360, len=66, n/ep=1, n/st=90, player_2/loss=0.031, rew=1.00]                                   
+Epoch #117: test_reward: 0.350000 ± 0.766485, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #118: 10080it [00:05, 1893.56it/s, env_step=1189440, len=58, n/ep=1, n/st=90, player_2/loss=0.033, rew=1.00]                                   
+Epoch #118: test_reward: 0.440000 ± 0.765768, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #119: 10080it [00:05, 1910.88it/s, env_step=1199520, len=50, n/ep=3, n/st=90, player_2/loss=0.034, rew=-0.33]                                  
+Epoch #119: test_reward: 0.230000 ± 0.903936, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #120: 10080it [00:05, 1877.22it/s, env_step=1209600, len=56, n/ep=2, n/st=90, player_2/loss=0.039, rew=-1.00]                                  
+Epoch #120: test_reward: 0.460000 ± 0.829699, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #121: 10080it [00:05, 1882.34it/s, env_step=1219680, len=61, n/ep=2, n/st=90, player_2/loss=0.037, rew=-0.50]                                  
+Epoch #121: test_reward: -0.010000 ± 0.888763, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #122: 10080it [00:05, 1870.25it/s, env_step=1229760, len=52, n/ep=3, n/st=90, player_2/loss=0.034, rew=-0.33]                                  
+Epoch #122: test_reward: 0.030000 ± 0.910549, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #123: 10080it [00:05, 1914.87it/s, env_step=1239840, len=53, n/ep=1, n/st=90, player_2/loss=0.034, rew=-1.00]                                  
+Epoch #123: test_reward: 0.080000 ± 0.923905, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #124: 10080it [00:05, 1904.66it/s, env_step=1249920, len=58, n/ep=2, n/st=90, player_2/loss=0.036, rew=0.50]                                   
+Epoch #124: test_reward: 0.080000 ± 0.890842, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #125: 10080it [00:05, 1863.26it/s, env_step=1260000, len=45, n/ep=0, n/st=90, player_2/loss=0.030, rew=1.00]                                   
+Epoch #125: test_reward: 0.350000 ± 0.852936, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #126: 10080it [00:05, 1913.40it/s, env_step=1270080, len=59, n/ep=1, n/st=90, player_2/loss=0.029, rew=-1.00]                                  
+Epoch #126: test_reward: -0.040000 ± 0.847585, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #127: 10080it [00:05, 1940.58it/s, env_step=1280160, len=58, n/ep=2, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #127: test_reward: 0.060000 ± 0.903549, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #128: 10080it [00:05, 1944.45it/s, env_step=1290240, len=56, n/ep=2, n/st=90, player_2/loss=0.025, rew=0.50]                                   
+Epoch #128: test_reward: 0.310000 ± 0.868274, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #129: 10080it [00:05, 1863.61it/s, env_step=1300320, len=52, n/ep=6, n/st=90, player_2/loss=0.029, rew=1.00]                                   
+Epoch #129: test_reward: 0.400000 ± 0.836660, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #130: 10080it [00:05, 1913.53it/s, env_step=1310400, len=43, n/ep=1, n/st=90, player_2/loss=0.031, rew=-1.00]                                  
+Epoch #130: test_reward: 0.410000 ± 0.837795, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #131: 10080it [00:05, 1923.48it/s, env_step=1320480, len=55, n/ep=1, n/st=90, player_2/loss=0.033, rew=-1.00]                                  
+Epoch #131: test_reward: 0.240000 ± 0.838093, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #132: 10080it [00:05, 1923.64it/s, env_step=1330560, len=57, n/ep=1, n/st=90, player_2/loss=0.032, rew=-1.00]                                  
+Epoch #132: test_reward: 0.160000 ± 0.913455, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #133: 10080it [00:05, 1918.05it/s, env_step=1340640, len=68, n/ep=1, n/st=90, player_2/loss=0.035, rew=1.00]                                   
+Epoch #133: test_reward: 0.280000 ± 0.872697, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #134: 10080it [00:05, 1944.90it/s, env_step=1350720, len=53, n/ep=3, n/st=90, player_2/loss=0.032, rew=-0.33]                                  
+Epoch #134: test_reward: 0.260000 ± 0.878863, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #135: 10080it [00:05, 1875.22it/s, env_step=1360800, len=62, n/ep=2, n/st=90, player_2/loss=0.036, rew=0.00]                                   
+Epoch #135: test_reward: 0.260000 ± 0.890169, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #136: 10080it [00:05, 1895.28it/s, env_step=1370880, len=57, n/ep=3, n/st=90, player_2/loss=0.033, rew=0.67]                                   
+Epoch #136: test_reward: 0.330000 ± 0.872410, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #137: 10080it [00:05, 1872.90it/s, env_step=1380960, len=64, n/ep=2, n/st=90, player_2/loss=0.028, rew=0.50]                                   
+Epoch #137: test_reward: 0.220000 ± 0.843564, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #138: 10080it [00:05, 1883.42it/s, env_step=1391040, len=64, n/ep=1, n/st=90, player_2/loss=0.029, rew=1.00]                                   
+Epoch #138: test_reward: 0.240000 ± 0.895768, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #139: 10080it [00:05, 1885.43it/s, env_step=1401120, len=56, n/ep=2, n/st=90, player_2/loss=0.035, rew=0.50]                                   
+Epoch #139: test_reward: 0.170000 ± 0.872410, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #140: 10080it [00:05, 1889.24it/s, env_step=1411200, len=57, n/ep=1, n/st=90, player_2/loss=0.037, rew=0.00]                                   
+Epoch #140: test_reward: 0.300000 ± 0.877496, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #141: 10080it [00:05, 1899.54it/s, env_step=1421280, len=57, n/ep=2, n/st=90, player_2/loss=0.028, rew=1.00]                                   
+Epoch #141: test_reward: 0.200000 ± 0.871780, best_reward: 0.570000 ± 0.751731 in #86
+Epoch #142: 10080it [00:05, 1862.50it/s, env_step=1431360, len=52, n/ep=2, n/st=90, player_2/loss=0.027, rew=-1.00]                                  
